@@ -22,11 +22,11 @@ See getting started here: https://github.com/Mermade/widdershins
 ``` bash 
 npm install -g widdershins
 
-node widdershins \
---search false \
---language_tabs 'http:Http' 'javascript:Javascript' \
---summary \
-https://raw.githubusercontent.com/finetech-dk/specs/main/sales/order/order-api.yaml \
--o _posts/order-api-2022-09-04.md
+
+widdershins --search false --language_tabs 'http:Http' --summary https://raw.githubusercontent.com/finetech-dk/specs/main/sales/order/order-api.yaml -o _posts/2022-09-04-order-api.md
+
+widdershins --search false --language_tabs 'http:Http' --summary https://raw.githubusercontent.com/finetech-dk/specs/main/sales/order/order-service.yaml -o _posts/2022-09-04-order-service.md
+
+
 
 ```
