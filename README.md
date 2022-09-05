@@ -4,6 +4,8 @@
 ### Create Github Pages with Jekyll and chirpy
 
 See video by Techno Tim to setup: https://youtu.be/F8iOU1ci19Q
+See jekyll-theme-chirpy: https://github.com/cotes2020/jekyll-theme-chirpy
+
 
 ``` bash
 bundle

@@ -1,7 +1,7 @@
 ---
 title: FineTech Order Service AsyncAPI v1.0.0
 date: 2022-09-04 10:00:00
-categories: [customer]
+categories: [sales,order,service]
 tag: [api]
 language_tabs:
   - http: Http

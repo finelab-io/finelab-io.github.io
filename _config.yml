@@ -28,7 +28,7 @@ tagline: developer.finetech.dk  # it will display as the sub-title
 description: >-                        # used by seo meta and the atom feed
   API & developer portal for a fictive fine-tuned fintech company 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'developer.finetech.dk'
+url: 'https://developer.finetech.dk'
 
 github:
   username: finetech-dk             # change to your github username
