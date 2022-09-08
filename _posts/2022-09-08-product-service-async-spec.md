@@ -1,3 +1,17 @@
+---
+title: Product AsyncAPI 1.0.0 documentation
+date: 2022-09-04 10:00:00
+categories: [sales,product,service]
+tag: [asyncapi]
+language_tabs:
+  - http: Http
+headingLevel: 3
+toc_footers: []
+includes: []
+search: false
+highlight_theme: darkula
+
+---
 # Product AsyncAPI 1.0.0 documentation
 
 * Specification ID: `finetech:sales:product`
