@@ -14,7 +14,7 @@ highlight_theme: darkula
 ---
 # Product AsyncAPI 1.0.0 documentation
 
-* Specification ID: `finetech:sales:product`
+* Specification ID: `finelab:sales:product`
 * License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 * Email support: [api@finelab.io](mailto:api@finelab.io)
 
@@ -84,7 +84,7 @@ The `ProductCatalogEvent` contains information about the published product catal
 
 ```json
 {
-  "uri": "urn:finetech:catalog:private_customers:private_insurance:da_DK",
+  "uri": "urn:finelab:catalog:private_customers:private_insurance:da_DK",
   "tenant_name": "finetech",
   "business_unit_name": "private_customers",
   "content_language": "da_DK",
@@ -142,8 +142,8 @@ The `ProductInformation` contains information about the published product.
 
 ```json
 {
-  "uri": "urn:finetech:product:private_customers:private_insurance:da_DK:7000",
-  "catalog_uri": "urn:finetech:product:private_customers:private_insurance:da_DK",
+  "uri": "urn:finelab:product:private_customers:private_insurance:da_DK:7000",
+  "catalog_uri": "urn:finelab:product:private_customers:private_insurance:da_DK",
   "number": 7000,
   "name": "car_insurance",
   "display_name": "Bilforsikring",
@@ -209,8 +209,8 @@ The `ProductPriceEvent` contains information about the published product price.
 
 ```json
 {
-  "uri": "urn:finetech:price:private_customers:private_insurance:da_DK:7000:1",
-  "product_information_uri": "urn:finetech:price:private_customers:private_insurance:da_DK:7000",
+  "uri": "urn:finelab:price:private_customers:private_insurance:da_DK:7000:1",
+  "product_information_uri": "urn:finelab:price:private_customers:private_insurance:da_DK:7000",
   "amount": 100,
   "charged": "per_month",
   "match_criteria": [
