@@ -37,7 +37,7 @@ The Product AsyncAPI publishes events whenever changes occurs to catalogs, produ
 * URL: `pkc-1wvvj.westeurope.azure.confluent.cloud:9092`
 * Protocol: `kafka 2.6.0`
 
-Finetech Test Broker
+finelab Test Broker
 
 #### Security
 
@@ -85,7 +85,7 @@ The `ProductCatalogEvent` contains information about the published product catal
 ```json
 {
   "uri": "urn:finelab:catalog:private_customers:private_insurance:da_DK",
-  "tenant_name": "finetech",
+  "tenant_name": "finelab",
   "business_unit_name": "private_customers",
   "content_language": "da_DK",
   "currency": "DKK",

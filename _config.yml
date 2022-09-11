@@ -34,7 +34,7 @@ github:
   username: finelabio             # change to your github username
 
 twitter:
-  username: finetech_dk            # change to your twitter username
+  username: finelab_dk            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -43,7 +43,7 @@ social:
   email: api@finelab.io             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/finetech_dk     # change to your twitter homepage
+    - https://twitter.com/finelab_dk     # change to your twitter homepage
     - https://github.com/finelabio      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
