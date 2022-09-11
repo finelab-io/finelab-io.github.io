@@ -1,5 +1,5 @@
 ---
-title: FineTech Customer API
+title: Finelab Customer API
 date: 2022-09-04 10:00:00
 categories: [customer,information]
 tag: [api]
