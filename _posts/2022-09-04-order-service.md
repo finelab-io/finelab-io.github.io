@@ -14,7 +14,7 @@ highlight_theme: darkula
 ---
 The Order AsyncAPI subscibes on OrderPlacedEvent and publish OrderAsssessedEvent.
 Base URLs:
-Email: <a href="mailto:api@finetech.dk">undefined</a> 
+Email: <a href="mailto:api@finelab.io">undefined</a> 
 License: <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache 2.0</a>
 
 # Schemas

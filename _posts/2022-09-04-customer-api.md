@@ -14,7 +14,7 @@ Hello and welcome!
 
 ## Diagram
 
-![Fintech Process Overview](https://raw.githubusercontent.com/finetech-dk/specs/main/diagrams/sales-process-overview.svg)
+![Fintech Process Overview](https://raw.githubusercontent.com/finelabio/specs/main/diagrams/sales-process-overview.svg)
 
 ```mermaid
  gantt

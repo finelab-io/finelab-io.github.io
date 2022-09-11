@@ -16,7 +16,7 @@ highlight_theme: darkula
 
 * Specification ID: `finetech:sales:product`
 * License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
-* Email support: [api@finetech.dk](mailto:api@finetech.dk)
+* Email support: [api@finelab.io](mailto:api@finelab.io)
 
 The Product AsyncAPI publishes events whenever changes occurs to catalogs, products or prices.
 
